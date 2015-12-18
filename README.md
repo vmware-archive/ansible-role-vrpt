@@ -1,4 +1,4 @@
-# ansible-role-elasticsearch
+# ansible-role-vrpt
 
 Ansible playbook to automate installing, running and maintaining vRPT as container(s).
 
